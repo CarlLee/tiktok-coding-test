@@ -1,0 +1,48 @@
+{
+  "vids": [{
+    "uri": "http://fryzstudios.com/v1.mp4",
+    "comments": [{
+      "username": "Tom",
+      "content": "Hello"
+    }, {
+      "username": "Cathy",
+      "content": "OMG!LOL!"
+    }]
+  },{
+    "uri": "http://fryzstudios.com/v2.mp4",
+    "comments": [{
+      "username": "Jerry",
+      "content": "This is insane"
+    }]
+  },{
+    "uri": "http://fryzstudios.com/v3.mp4",
+    "comments": [{
+      "username": "Abigal",
+      "content": "Wow"
+    }, {
+      "username": "SkankHunt42",
+      "content": "This is LITERALLY bullshit"
+    }, {
+      "username": "RandomDude",
+      "content": "I didn't knew that before"
+    },{
+      "username": "Abigal",
+      "content": "Wow"
+    }, {
+      "username": "SkankHunt42",
+      "content": "This is LITERALLY bullshit"
+    }, {
+      "username": "RandomDude",
+      "content": "I didn't knew that before"
+    },{
+      "username": "Abigal",
+      "content": "Wow"
+    }, {
+      "username": "SkankHunt42",
+      "content": "This is LITERALLY bullshit"
+    }, {
+      "username": "RandomDude",
+      "content": "I didn't knew that before"
+    }]
+  }]
+}
